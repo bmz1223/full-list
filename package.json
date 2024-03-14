@@ -1,0 +1,19 @@
+{
+  "name": "full-list",
+  "version": "1.0.4",
+  "description": "List all the combinations",
+  "main": "./dist/full-list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "full",
+    "list",
+    "combinations"
+  ],
+  "author": "bmz",
+  "license": "MIT",
+  "dependencies": {
+    "full-list": "^1.0.4"
+  }
+}
